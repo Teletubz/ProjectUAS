@@ -3,13 +3,18 @@
 Konsep Dasar OOP
 
 Generalisasi/Inheritance
+
 Abstract Class atau Interface
+
 Class Relationship
+
 GUI/Even Driven
+
 
 ## Link Dokumen
 
 Link PDF   : https://bit.ly/3Gj8lcm
+
 Link Video : https://bit.ly/3CqH5HU
 
 
